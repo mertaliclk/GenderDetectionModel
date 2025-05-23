@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Keras](https://img.shields.io/badge/Keras-2.x-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A deep learning model for gender classification using facial images, implemented with TensorFlow and Keras.
 
