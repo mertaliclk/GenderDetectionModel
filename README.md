@@ -106,5 +106,4 @@ Mert Ali Celik
 
 ## 🙏 Acknowledgments
 
-- Thanks to all contributors who have helped with the project
-- Special thanks to the open-source community for their valuable resources and tools 
+-  Thanks to the open-source community for their valuable resources and tools 
